@@ -12,5 +12,14 @@ HTML
     <p>Esta é a minha primeira página web no GitHub. Estou aprendendo a criar e versionar meus projetos.</p>
     <!-- Substitua a URL abaixo pela sua imagem! -->
     <img src="https://placehold.co/200x200/FF5733/FFFFFF?text=Sua+Foto&quot; alt="Minha foto de perfil" style="border-radius: 8px; max-width: 100%; height: auto;">
+style="border-radius: 8px; max-width: 100%; height: auto;">
+
+    <h2>O que estou aprendendo:</h2>
+    <ul>
+        <li>HTML ( Uma Estrutura para páginas web)</li>
+        <li>Git (Um Controle de versão)</li>
+        <li>GitHub (Uma Plataforma para repositórios)</li>
+    </ul>
+    <p>Estou apreciando muito de cada passo!</p>
 </body>
 </html>
